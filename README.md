@@ -1,1 +1,1 @@
-# Kvantov-po-ta-e
+# Kvantove pocitace
